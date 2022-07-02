@@ -1,2 +1,3 @@
 # Personal Website
-Code and implementation of personal website can be found here
+Initial repo created, will work on throughout summmer / school year
+
